@@ -1,0 +1,27 @@
+ package Excep1;
+
+public class costmExecp {
+public static void main(String args[])throws AgeExcepation {
+	
+System.out.println("Hello Voters");
+	
+	int age = -897;
+	
+	if(age > 18) {
+		
+		System.out.println("Eligiable for Voters");
+}else {
+	
+	throw new AgeExcepation("Your Not Eligiable for Voting!!!");
+	
+}
+	
+System.out.println("hi");
+	}
+	
+	
+	
+}
+
+	
+

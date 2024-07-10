@@ -1,0 +1,24 @@
+package practicesquestions;
+
+public class HomeAppliance {
+//	. Home Appliance Class Program (Find Total Power Consumption)
+//	   - Create a Java class named `HomeAppliance`.
+//	   - Declare variables `name`, `powerRating`, `isEnergyEfficient`, and `quantity`.
+//	   - Write a main method to create two instances of `HomeAppliance`.
+//	   - Assign values to the attributes of each appliance and calculate the total power consumption.
+	
+public static void main(String args[]) {
+	  
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,12 @@
+package Excep1;
+
+public class AgeExcepation  extends Exception {
+	//private String Name;
+	public  AgeExcepation(String n1) {
+		super(n1);
+	}
+
+
+
+	}
+		

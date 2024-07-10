@@ -1,0 +1,13 @@
+package practicesquestions;
+
+public class ques7 {
+public static void main(String args[]) {
+//7. Implement a Java program to find the largest and smallest elements in an array.
+	
+	String [] val = {"happy ","sucess","lesson"};
+	
+	
+	System.out.println(val);
+}
+
+}

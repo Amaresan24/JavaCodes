@@ -1,0 +1,40 @@
+package Final_keywords;
+
+import java.util.ArrayList;
+
+public class ArrayList_to_Array {
+
+	public static void main(String[] args) {
+		
+// Using to with InBulid Method 
+		ArrayList<String> arrayList = new ArrayList<>();
+		arrayList.add("Apple");
+		arrayList.add("Banana");
+		arrayList.add("Cherry");
+
+		String[] array = new String[arrayList.size()];
+
+		array = arrayList.toArray(array);
+
+		for (String element : array) {
+			System.out.println(element);
+		}
+
+		
+	// Using to With Out InBulid Method
+		
+		ArrayList<String> arrayList1 = new ArrayList<>();
+        arrayList.add("suresh");
+        arrayList.add("Magesh");
+        arrayList.add("Grish");
+        
+        
+		String[] array2 = new String[arrayList1.size()];
+
+
+		
+		
+		
+	}
+
+}

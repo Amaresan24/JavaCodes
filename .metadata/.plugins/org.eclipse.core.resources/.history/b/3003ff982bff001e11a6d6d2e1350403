@@ -1,0 +1,19 @@
+package practicesquestions;
+
+public class PalindromeChecking {
+public static void main(String args[]) {
+	
+String str = "Hello";
+//int stringCount = 0;
+
+System.out.println(str.length());
+
+
+	}
+	
+}	
+	
+	
+
+
+

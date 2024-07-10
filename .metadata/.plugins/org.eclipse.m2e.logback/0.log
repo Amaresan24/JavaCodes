@@ -1,0 +1,566 @@
+2024-04-11 11:59:06,296 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-11 14:43:27,957 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 09:13:24,963 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 15:56:47,319 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-13 09:19:09,113 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-15 09:04:08,191 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-16 09:51:31,002 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-17 14:08:19,179 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-18 09:10:10,461 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-20 09:07:26,664 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-20 09:12:22,480 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-21 10:21:45,041 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-22 09:42:30,255 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-23 09:20:09,477 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-23 20:13:02,710 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-24 10:31:21,364 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-25 09:25:26,985 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-27 16:40:09,570 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-28 19:52:37,235 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-01 14:05:35,426 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-01 20:10:40,667 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-03 21:45:02,962 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-04 09:11:32,288 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-05 10:39:12,119 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-05 22:41:21,324 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-06 09:27:10,524 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-07 14:19:50,633 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-07 14:44:47,590 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-07 15:39:05,999 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-07 15:48:57,687 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-07 16:21:28,102 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-08 09:48:26,369 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-09 09:19:02,392 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-11 14:56:19,210 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-14 09:17:23,065 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-15 09:13:31,410 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-15 14:15:58,565 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-17 10:42:44,789 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-18 09:23:43,456 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-21 09:18:18,376 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-21 15:07:03,122 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-22 10:23:16,718 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-23 09:16:13,445 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-23 14:28:23,890 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-25 14:04:40,705 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-29 11:49:51,388 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-30 14:04:37,464 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-31 09:04:15,418 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-01 09:14:56,252 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-03 09:21:05,609 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-04 10:02:35,126 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-04 20:41:13,002 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-04 20:43:02,979 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Code_fun:Code_fun:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\Code_fun\pom.xml.
+2024-06-04 20:43:04,478 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Code_fun/src/main/java
+2024-06-04 20:43:04,482 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Code_fun/src/main/resources
+2024-06-04 20:43:04,484 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Code_fun/src/main/resources
+2024-06-04 20:43:04,577 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Code_fun/src/test/java
+2024-06-04 20:43:04,579 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Code_fun/src/test/resources
+2024-06-04 20:43:04,954 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-06-04 20:44:40,244 [Worker-25: Launching CodeFunApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 20:44:40,266 [Worker-25: Launching CodeFunApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 20:44:40,272 [Worker-25: Launching CodeFunApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\Code_fun\src\test\resources
+2024-06-05 09:19:57,415 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-05 09:51:24,967 [Worker-28: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.example:Web_App:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2024-06-05 09:57:21,670 [Worker-27: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CodeFunApplication references non-existing project Code_fun.
+org.eclipse.core.runtime.CoreException: Launch configuration CodeFunApplication references non-existing project Code_fun.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-06-05 09:57:21,686 [Worker-27: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CodeFunApplication references non-existing project Code_fun.
+org.eclipse.core.runtime.CoreException: Launch configuration CodeFunApplication references non-existing project Code_fun.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-06-05 09:57:21,693 [Worker-27: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CodeFunApplication references non-existing project Code_fun.
+org.eclipse.core.runtime.CoreException: Launch configuration CodeFunApplication references non-existing project Code_fun.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-06-05 10:02:24,683 [Worker-30: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring_Initializer:first_SpingInitializer:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\first_SpingInitializer\pom.xml.
+2024-06-05 10:02:26,223 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /first_SpingInitializer/src/main/java
+2024-06-05 10:02:26,229 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /first_SpingInitializer/src/main/resources
+2024-06-05 10:02:26,232 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /first_SpingInitializer/src/main/resources
+2024-06-05 10:02:26,235 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /first_SpingInitializer/src/test/java
+2024-06-05 10:02:26,237 [Worker-30: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /first_SpingInitializer/src/test/resources
+2024-06-05 10:02:26,909 [Worker-30: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-06-05 10:03:02,034 [Worker-27: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-05 10:03:02,068 [Worker-27: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-05 10:03:02,074 [Worker-27: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\first_SpingInitializer\src\test\resources
+2024-06-07 12:50:07,450 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-08 09:29:16,306 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-10 09:11:06,905 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-10 09:12:22,677 [Worker-7: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-10 09:12:22,738 [Worker-7: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-10 09:12:22,747 [Worker-7: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\first_SpingInitializer\src\test\resources
+2024-06-11 09:42:31,662 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-11 20:36:06,098 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-11 20:55:41,900 [Worker-23: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-11 20:55:41,941 [Worker-23: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-11 20:55:41,953 [Worker-23: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\first_SpingInitializer\src\test\resources
+2024-06-13 17:08:38,590 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-13 17:34:18,286 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-13 17:36:36,756 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-13 17:42:00,937 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-15 10:19:40,029 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-18 14:12:53,490 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-18 14:20:22,262 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\pom.xml.
+2024-06-18 14:20:23,906 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2024-06-18 14:20:23,908 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2024-06-18 14:20:23,916 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2024-06-18 14:20:23,924 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2024-06-18 14:20:23,926 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2024-06-18 14:20:24,578 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-06-18 14:39:51,070 [Worker-26: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 14:39:51,086 [Worker-26: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 14:39:51,090 [Worker-26: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\first_SpingInitializer\src\test\resources
+2024-06-18 14:46:21,859 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-06-18 14:48:38,251 [Worker-29: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 14:48:38,281 [Worker-29: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 14:48:38,288 [Worker-29: Launching Attacher] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:08:55,515 [Worker-53: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 15:08:55,566 [Worker-53: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:08:55,571 [Worker-53: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:16:15,500 [Worker-60: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 15:16:15,576 [Worker-60: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:16:15,582 [Worker-60: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:24:33,032 [Worker-53: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 15:24:33,048 [Worker-53: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:24:33,052 [Worker-53: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:34:08,759 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\pom.xml.
+2024-06-18 15:34:09,491 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jetty/3.3.0/spring-boot-starter-jetty-3.3.0.pom
+2024-06-18 15:34:09,511 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jetty/3.3.0/spring-boot-starter-jetty-3.3.0.pom
+2024-06-18 15:34:09,534 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.pom
+2024-06-18 15:34:09,549 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.pom
+2024-06-18 15:34:09,568 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-api/2.1.1/jakarta.websocket-api-2.1.1.pom
+2024-06-18 15:34:09,578 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-api/2.1.1/jakarta.websocket-api-2.1.1.pom
+2024-06-18 15:34:09,598 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-all/2.1.1/jakarta.websocket-all-2.1.1.pom
+2024-06-18 15:34:09,610 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-all/2.1.1/jakarta.websocket-all-2.1.1.pom
+2024-06-18 15:34:09,639 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-client-api/2.1.1/jakarta.websocket-client-api-2.1.1.pom
+2024-06-18 15:34:09,650 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-client-api/2.1.1/jakarta.websocket-client-api-2.1.1.pom
+2024-06-18 15:34:09,680 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlets/12.0.9/jetty-ee10-servlets-12.0.9.pom
+2024-06-18 15:34:09,689 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlets/12.0.9/jetty-ee10-servlets-12.0.9.pom
+2024-06-18 15:34:09,708 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10/12.0.9/jetty-ee10-12.0.9.pom
+2024-06-18 15:34:09,720 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10/12.0.9/jetty-ee10-12.0.9.pom
+2024-06-18 15:34:09,744 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/12.0.9/jetty-project-12.0.9.pom
+2024-06-18 15:34:09,774 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/12.0.9/jetty-project-12.0.9.pom
+2024-06-18 15:34:09,800 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.17.0/jackson-bom-2.17.0.pom
+2024-06-18 15:34:09,810 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.17.0/jackson-bom-2.17.0.pom
+2024-06-18 15:34:09,831 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/search/hibernate-search-bom/7.1.1.Final/hibernate-search-bom-7.1.1.Final.pom
+2024-06-18 15:34:09,840 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/search/hibernate-search-bom/7.1.1.Final/hibernate-search-bom-7.1.1.Final.pom
+2024-06-18 15:34:09,856 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/15.0.1.Final/infinispan-bom-15.0.1.Final.pom
+2024-06-18 15:34:09,866 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/15.0.1.Final/infinispan-bom-15.0.1.Final.pom
+2024-06-18 15:34:09,881 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/15.0.1.Final/infinispan-build-configuration-parent-15.0.1.Final.pom
+2024-06-18 15:34:09,892 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/15.0.1.Final/infinispan-build-configuration-parent-15.0.1.Final.pom
+2024-06-18 15:34:09,915 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-bom/9.7/asm-bom-9.7.pom
+2024-06-18 15:34:09,927 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-bom/9.7/asm-bom-9.7.pom
+2024-06-18 15:34:09,946 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.19.7/testcontainers-bom-1.19.7.pom
+2024-06-18 15:34:09,956 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.19.7/testcontainers-bom-1.19.7.pom
+2024-06-18 15:34:09,978 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/12.0.9/jetty-http-12.0.9.pom
+2024-06-18 15:34:09,990 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/12.0.9/jetty-http-12.0.9.pom
+2024-06-18 15:34:10,010 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-core/12.0.9/jetty-core-12.0.9.pom
+2024-06-18 15:34:10,019 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-core/12.0.9/jetty-core-12.0.9.pom
+2024-06-18 15:34:10,035 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/12.0.9/jetty-io-12.0.9.pom
+2024-06-18 15:34:10,043 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/12.0.9/jetty-io-12.0.9.pom
+2024-06-18 15:34:10,058 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/12.0.9/jetty-util-12.0.9.pom
+2024-06-18 15:34:10,066 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/12.0.9/jetty-util-12.0.9.pom
+2024-06-18 15:34:10,083 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-webapp/12.0.9/jetty-ee10-webapp-12.0.9.pom
+2024-06-18 15:34:10,091 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-webapp/12.0.9/jetty-ee10-webapp-12.0.9.pom
+2024-06-18 15:34:10,109 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-ee/12.0.9/jetty-ee-12.0.9.pom
+2024-06-18 15:34:10,119 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-ee/12.0.9/jetty-ee-12.0.9.pom
+2024-06-18 15:34:10,147 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-server/12.0.9/jetty-server-12.0.9.pom
+2024-06-18 15:34:10,157 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-server/12.0.9/jetty-server-12.0.9.pom
+2024-06-18 15:34:10,175 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-session/12.0.9/jetty-session-12.0.9.pom
+2024-06-18 15:34:10,184 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-session/12.0.9/jetty-session-12.0.9.pom
+2024-06-18 15:34:10,202 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/12.0.9/jetty-xml-12.0.9.pom
+2024-06-18 15:34:10,211 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/12.0.9/jetty-xml-12.0.9.pom
+2024-06-18 15:34:10,229 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlet/12.0.9/jetty-ee10-servlet-12.0.9.pom
+2024-06-18 15:34:10,238 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlet/12.0.9/jetty-ee10-servlet-12.0.9.pom
+2024-06-18 15:34:10,256 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-security/12.0.9/jetty-security-12.0.9.pom
+2024-06-18 15:34:10,266 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-security/12.0.9/jetty-security-12.0.9.pom
+2024-06-18 15:34:10,287 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-server/12.0.9/jetty-ee10-websocket-jakarta-server-12.0.9.pom
+2024-06-18 15:34:10,298 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-server/12.0.9/jetty-ee10-websocket-jakarta-server-12.0.9.pom
+2024-06-18 15:34:10,319 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket/12.0.9/jetty-ee10-websocket-12.0.9.pom
+2024-06-18 15:34:10,336 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket/12.0.9/jetty-ee10-websocket-12.0.9.pom
+2024-06-18 15:34:10,364 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-annotations/12.0.9/jetty-ee10-annotations-12.0.9.pom
+2024-06-18 15:34:10,374 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-annotations/12.0.9/jetty-ee10-annotations-12.0.9.pom
+2024-06-18 15:34:10,419 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-plus/12.0.9/jetty-ee10-plus-12.0.9.pom
+2024-06-18 15:34:10,430 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-plus/12.0.9/jetty-ee10-plus-12.0.9.pom
+2024-06-18 15:34:10,455 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.pom
+2024-06-18 15:34:10,468 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.pom
+2024-06-18 15:34:10,511 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-parent/4.0.1/jakarta.enterprise.cdi-parent-4.0.1.pom
+2024-06-18 15:34:10,520 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-parent/4.0.1/jakarta.enterprise.cdi-parent-4.0.1.pom
+2024-06-18 15:34:10,542 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.pom
+2024-06-18 15:34:10,552 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.pom
+2024-06-18 15:34:10,582 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.pom
+2024-06-18 15:34:10,591 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.pom
+2024-06-18 15:34:10,606 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-plus/12.0.9/jetty-plus-12.0.9.pom
+2024-06-18 15:34:10,616 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-plus/12.0.9/jetty-plus-12.0.9.pom
+2024-06-18 15:34:10,631 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.pom
+2024-06-18 15:34:10,640 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.pom
+2024-06-18 15:34:10,660 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.pom
+2024-06-18 15:34:10,669 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.pom
+2024-06-18 15:34:10,687 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.pom
+2024-06-18 15:34:10,697 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.pom
+2024-06-18 15:34:10,715 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-client/12.0.9/jetty-ee10-websocket-jakarta-client-12.0.9.pom
+2024-06-18 15:34:10,727 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-client/12.0.9/jetty-ee10-websocket-jakarta-client-12.0.9.pom
+2024-06-18 15:34:10,746 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/12.0.9/jetty-client-12.0.9.pom
+2024-06-18 15:34:10,755 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/12.0.9/jetty-client-12.0.9.pom
+2024-06-18 15:34:10,772 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn-client/12.0.9/jetty-alpn-client-12.0.9.pom
+2024-06-18 15:34:10,782 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn-client/12.0.9/jetty-alpn-client-12.0.9.pom
+2024-06-18 15:34:10,796 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn/12.0.9/jetty-alpn-12.0.9.pom
+2024-06-18 15:34:10,804 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn/12.0.9/jetty-alpn-12.0.9.pom
+2024-06-18 15:34:10,819 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-common/12.0.9/jetty-ee10-websocket-jakarta-common-12.0.9.pom
+2024-06-18 15:34:10,828 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-common/12.0.9/jetty-ee10-websocket-jakarta-common-12.0.9.pom
+2024-06-18 15:34:10,844 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-client/12.0.9/jetty-websocket-core-client-12.0.9.pom
+2024-06-18 15:34:10,853 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-client/12.0.9/jetty-websocket-core-client-12.0.9.pom
+2024-06-18 15:34:10,871 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket/12.0.9/jetty-websocket-12.0.9.pom
+2024-06-18 15:34:10,879 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket/12.0.9/jetty-websocket-12.0.9.pom
+2024-06-18 15:34:10,902 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-common/12.0.9/jetty-websocket-core-common-12.0.9.pom
+2024-06-18 15:34:10,920 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-common/12.0.9/jetty-websocket-core-common-12.0.9.pom
+2024-06-18 15:34:10,940 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-servlet/12.0.9/jetty-ee10-websocket-servlet-12.0.9.pom
+2024-06-18 15:34:10,949 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-servlet/12.0.9/jetty-ee10-websocket-servlet-12.0.9.pom
+2024-06-18 15:34:10,972 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-server/12.0.9/jetty-websocket-core-server-12.0.9.pom
+2024-06-18 15:34:10,981 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-server/12.0.9/jetty-websocket-core-server-12.0.9.pom
+2024-06-18 15:34:11,002 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jetty-server/12.0.9/jetty-ee10-websocket-jetty-server-12.0.9.pom
+2024-06-18 15:34:11,012 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jetty-server/12.0.9/jetty-ee10-websocket-jetty-server-12.0.9.pom
+2024-06-18 15:34:11,034 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-api/12.0.9/jetty-websocket-jetty-api-12.0.9.pom
+2024-06-18 15:34:11,045 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-api/12.0.9/jetty-websocket-jetty-api-12.0.9.pom
+2024-06-18 15:34:11,064 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-common/12.0.9/jetty-websocket-jetty-common-12.0.9.pom
+2024-06-18 15:34:11,075 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-common/12.0.9/jetty-websocket-jetty-common-12.0.9.pom
+2024-06-18 15:34:11,271 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jetty/3.3.0/spring-boot-starter-jetty-3.3.0.jar
+2024-06-18 15:34:11,284 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jetty/3.3.0/spring-boot-starter-jetty-3.3.0.jar
+2024-06-18 15:34:11,295 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-client-api/2.1.1/jakarta.websocket-client-api-2.1.1.jar
+2024-06-18 15:34:11,306 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar
+2024-06-18 15:34:11,310 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlets/12.0.9/jetty-ee10-servlets-12.0.9.jar
+2024-06-18 15:34:11,311 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-client-api/2.1.1/jakarta.websocket-client-api-2.1.1.jar
+2024-06-18 15:34:11,317 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/12.0.9/jetty-http-12.0.9.jar
+2024-06-18 15:34:11,319 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-api/2.1.1/jakarta.websocket-api-2.1.1.jar
+2024-06-18 15:34:11,323 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/12.0.9/jetty-io-12.0.9.jar
+2024-06-18 15:34:11,329 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlets/12.0.9/jetty-ee10-servlets-12.0.9.jar
+2024-06-18 15:34:11,334 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-api/2.1.1/jakarta.websocket-api-2.1.1.jar
+2024-06-18 15:34:11,350 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-webapp/12.0.9/jetty-ee10-webapp-12.0.9.jar
+2024-06-18 15:34:11,353 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar
+2024-06-18 15:34:11,356 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/12.0.9/jetty-util-12.0.9.jar
+2024-06-18 15:34:11,361 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/12.0.9/jetty-io-12.0.9.jar
+2024-06-18 15:34:11,366 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-ee/12.0.9/jetty-ee-12.0.9.jar
+2024-06-18 15:34:11,377 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-ee/12.0.9/jetty-ee-12.0.9.jar
+2024-06-18 15:34:11,379 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-server/12.0.9/jetty-server-12.0.9.jar
+2024-06-18 15:34:11,379 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-webapp/12.0.9/jetty-ee10-webapp-12.0.9.jar
+2024-06-18 15:34:11,390 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/12.0.9/jetty-http-12.0.9.jar
+2024-06-18 15:34:11,395 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-session/12.0.9/jetty-session-12.0.9.jar
+2024-06-18 15:34:11,405 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/12.0.9/jetty-xml-12.0.9.jar
+2024-06-18 15:34:11,415 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlet/12.0.9/jetty-ee10-servlet-12.0.9.jar
+2024-06-18 15:34:11,417 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-session/12.0.9/jetty-session-12.0.9.jar
+2024-06-18 15:34:11,428 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/12.0.9/jetty-xml-12.0.9.jar
+2024-06-18 15:34:11,429 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-security/12.0.9/jetty-security-12.0.9.jar
+2024-06-18 15:34:11,441 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/12.0.9/jetty-util-12.0.9.jar
+2024-06-18 15:34:11,443 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-server/12.0.9/jetty-ee10-websocket-jakarta-server-12.0.9.jar
+2024-06-18 15:34:11,453 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-server/12.0.9/jetty-server-12.0.9.jar
+2024-06-18 15:34:11,453 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-annotations/12.0.9/jetty-ee10-annotations-12.0.9.jar
+2024-06-18 15:34:11,458 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-security/12.0.9/jetty-security-12.0.9.jar
+2024-06-18 15:34:11,459 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlet/12.0.9/jetty-ee10-servlet-12.0.9.jar
+2024-06-18 15:34:11,464 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-server/12.0.9/jetty-ee10-websocket-jakarta-server-12.0.9.jar
+2024-06-18 15:34:11,469 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-plus/12.0.9/jetty-ee10-plus-12.0.9.jar
+2024-06-18 15:34:11,469 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar
+2024-06-18 15:34:11,471 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar
+2024-06-18 15:34:11,472 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-annotations/12.0.9/jetty-ee10-annotations-12.0.9.jar
+2024-06-18 15:34:11,485 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar
+2024-06-18 15:34:11,485 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-plus/12.0.9/jetty-plus-12.0.9.jar
+2024-06-18 15:34:11,485 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar
+2024-06-18 15:34:11,485 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-plus/12.0.9/jetty-ee10-plus-12.0.9.jar
+2024-06-18 15:34:11,492 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar
+2024-06-18 15:34:11,494 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar
+2024-06-18 15:34:11,496 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar
+2024-06-18 15:34:11,501 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-client/12.0.9/jetty-ee10-websocket-jakarta-client-12.0.9.jar
+2024-06-18 15:34:11,501 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-plus/12.0.9/jetty-plus-12.0.9.jar
+2024-06-18 15:34:11,502 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar
+2024-06-18 15:34:11,511 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar
+2024-06-18 15:34:11,512 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/12.0.9/jetty-client-12.0.9.jar
+2024-06-18 15:34:11,518 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar
+2024-06-18 15:34:11,518 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn-client/12.0.9/jetty-alpn-client-12.0.9.jar
+2024-06-18 15:34:11,520 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-client/12.0.9/jetty-ee10-websocket-jakarta-client-12.0.9.jar
+2024-06-18 15:34:11,526 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-common/12.0.9/jetty-ee10-websocket-jakarta-common-12.0.9.jar
+2024-06-18 15:34:11,531 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-servlet/12.0.9/jetty-ee10-websocket-servlet-12.0.9.jar
+2024-06-18 15:34:11,531 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-client/12.0.9/jetty-websocket-core-client-12.0.9.jar
+2024-06-18 15:34:11,539 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn-client/12.0.9/jetty-alpn-client-12.0.9.jar
+2024-06-18 15:34:11,547 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/12.0.9/jetty-client-12.0.9.jar
+2024-06-18 15:34:11,549 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-common/12.0.9/jetty-ee10-websocket-jakarta-common-12.0.9.jar
+2024-06-18 15:34:11,549 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-client/12.0.9/jetty-websocket-core-client-12.0.9.jar
+2024-06-18 15:34:11,550 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-servlet/12.0.9/jetty-ee10-websocket-servlet-12.0.9.jar
+2024-06-18 15:34:11,550 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-server/12.0.9/jetty-websocket-core-server-12.0.9.jar
+2024-06-18 15:34:11,558 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jetty-server/12.0.9/jetty-ee10-websocket-jetty-server-12.0.9.jar
+2024-06-18 15:34:11,558 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-common/12.0.9/jetty-websocket-jetty-common-12.0.9.jar
+2024-06-18 15:34:11,563 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-common/12.0.9/jetty-websocket-core-common-12.0.9.jar
+2024-06-18 15:34:11,563 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-api/12.0.9/jetty-websocket-jetty-api-12.0.9.jar
+2024-06-18 15:34:11,572 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-server/12.0.9/jetty-websocket-core-server-12.0.9.jar
+2024-06-18 15:34:11,577 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jetty-server/12.0.9/jetty-ee10-websocket-jetty-server-12.0.9.jar
+2024-06-18 15:34:11,577 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-common/12.0.9/jetty-websocket-jetty-common-12.0.9.jar
+2024-06-18 15:34:11,578 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-api/12.0.9/jetty-websocket-jetty-api-12.0.9.jar
+2024-06-18 15:34:11,580 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-common/12.0.9/jetty-websocket-core-common-12.0.9.jar
+2024-06-18 15:34:12,295 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring_Initializer:first_SpingInitializer:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\first_SpingInitializer\pom.xml.
+2024-06-18 15:34:13,260 [Worker-64: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:34:13,262 [Worker-64: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:34:13,265 [Worker-64: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:34:13,968 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jetty/3.3.0/spring-boot-starter-jetty-3.3.0-sources.jar
+2024-06-18 15:34:13,987 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jetty/3.3.0/spring-boot-starter-jetty-3.3.0-sources.jar
+2024-06-18 15:34:14,001 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jetty:3.3.0
+2024-06-18 15:34:14,065 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0-sources.jar
+2024-06-18 15:34:14,341 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0-sources.jar
+2024-06-18 15:34:14,363 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet:jakarta.servlet-api:6.0.0
+2024-06-18 15:34:14,418 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-api/2.1.1/jakarta.websocket-api-2.1.1-sources.jar
+2024-06-18 15:34:14,583 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-api/2.1.1/jakarta.websocket-api-2.1.1-sources.jar
+2024-06-18 15:34:14,645 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.websocket:jakarta.websocket-api:2.1.1
+2024-06-18 15:34:14,706 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-client-api/2.1.1/jakarta.websocket-client-api-2.1.1-sources.jar
+2024-06-18 15:34:14,734 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/websocket/jakarta.websocket-client-api/2.1.1/jakarta.websocket-client-api-2.1.1-sources.jar
+2024-06-18 15:34:14,743 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.websocket:jakarta.websocket-client-api:2.1.1
+2024-06-18 15:34:14,786 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlets/12.0.9/jetty-ee10-servlets-12.0.9-sources.jar
+2024-06-18 15:34:14,807 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlets/12.0.9/jetty-ee10-servlets-12.0.9-sources.jar
+2024-06-18 15:34:14,818 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10:jetty-ee10-servlets:12.0.9
+2024-06-18 15:34:14,846 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/12.0.9/jetty-http-12.0.9-sources.jar
+2024-06-18 15:34:14,891 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/12.0.9/jetty-http-12.0.9-sources.jar
+2024-06-18 15:34:14,902 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-http:12.0.9
+2024-06-18 15:34:14,940 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/12.0.9/jetty-io-12.0.9-sources.jar
+2024-06-18 15:34:14,965 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/12.0.9/jetty-io-12.0.9-sources.jar
+2024-06-18 15:34:14,973 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-io:12.0.9
+2024-06-18 15:34:15,017 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/12.0.9/jetty-util-12.0.9-sources.jar
+2024-06-18 15:34:15,082 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/12.0.9/jetty-util-12.0.9-sources.jar
+2024-06-18 15:34:15,091 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-util:12.0.9
+2024-06-18 15:34:15,123 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-webapp/12.0.9/jetty-ee10-webapp-12.0.9-sources.jar
+2024-06-18 15:34:15,145 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-webapp/12.0.9/jetty-ee10-webapp-12.0.9-sources.jar
+2024-06-18 15:34:15,154 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10:jetty-ee10-webapp:12.0.9
+2024-06-18 15:34:15,183 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-ee/12.0.9/jetty-ee-12.0.9-sources.jar
+2024-06-18 15:34:15,196 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-ee/12.0.9/jetty-ee-12.0.9-sources.jar
+2024-06-18 15:34:15,203 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-ee:12.0.9
+2024-06-18 15:34:15,249 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-server/12.0.9/jetty-server-12.0.9-sources.jar
+2024-06-18 15:34:15,288 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-server/12.0.9/jetty-server-12.0.9-sources.jar
+2024-06-18 15:34:15,297 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-server:12.0.9
+2024-06-18 15:34:15,321 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-session/12.0.9/jetty-session-12.0.9-sources.jar
+2024-06-18 15:34:15,338 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-session/12.0.9/jetty-session-12.0.9-sources.jar
+2024-06-18 15:34:15,347 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-session:12.0.9
+2024-06-18 15:34:15,392 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/12.0.9/jetty-xml-12.0.9-sources.jar
+2024-06-18 15:34:15,409 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/12.0.9/jetty-xml-12.0.9-sources.jar
+2024-06-18 15:34:15,418 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-xml:12.0.9
+2024-06-18 15:34:15,454 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlet/12.0.9/jetty-ee10-servlet-12.0.9-sources.jar
+2024-06-18 15:34:15,479 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-servlet/12.0.9/jetty-ee10-servlet-12.0.9-sources.jar
+2024-06-18 15:34:15,486 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10:jetty-ee10-servlet:12.0.9
+2024-06-18 15:34:15,508 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-security/12.0.9/jetty-security-12.0.9-sources.jar
+2024-06-18 15:34:15,528 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-security/12.0.9/jetty-security-12.0.9-sources.jar
+2024-06-18 15:34:15,536 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-security:12.0.9
+2024-06-18 15:34:15,558 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-server/12.0.9/jetty-ee10-websocket-jakarta-server-12.0.9-sources.jar
+2024-06-18 15:34:15,571 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-server/12.0.9/jetty-ee10-websocket-jakarta-server-12.0.9-sources.jar
+2024-06-18 15:34:15,579 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jakarta-server:12.0.9
+2024-06-18 15:34:15,602 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-annotations/12.0.9/jetty-ee10-annotations-12.0.9-sources.jar
+2024-06-18 15:34:15,616 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-annotations/12.0.9/jetty-ee10-annotations-12.0.9-sources.jar
+2024-06-18 15:34:15,624 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10:jetty-ee10-annotations:12.0.9
+2024-06-18 15:34:15,663 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-plus/12.0.9/jetty-ee10-plus-12.0.9-sources.jar
+2024-06-18 15:34:15,678 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/jetty-ee10-plus/12.0.9/jetty-ee10-plus-12.0.9-sources.jar
+2024-06-18 15:34:15,688 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10:jetty-ee10-plus:12.0.9
+2024-06-18 15:34:15,720 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1-sources.jar
+2024-06-18 15:34:15,757 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1-sources.jar
+2024-06-18 15:34:15,769 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.enterprise:jakarta.enterprise.cdi-api:4.0.1
+2024-06-18 15:34:15,805 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1-sources.jar
+2024-06-18 15:34:15,822 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1-sources.jar
+2024-06-18 15:34:15,834 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.enterprise:jakarta.enterprise.lang-model:4.0.1
+2024-06-18 15:34:15,863 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0-sources.jar
+2024-06-18 15:34:15,876 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0-sources.jar
+2024-06-18 15:34:15,885 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.interceptor:jakarta.interceptor-api:2.1.0
+2024-06-18 15:34:15,918 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-plus/12.0.9/jetty-plus-12.0.9-sources.jar
+2024-06-18 15:34:15,934 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-plus/12.0.9/jetty-plus-12.0.9-sources.jar
+2024-06-18 15:34:15,944 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-plus:12.0.9
+2024-06-18 15:34:15,977 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7-sources.jar
+2024-06-18 15:34:15,998 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7-sources.jar
+2024-06-18 15:34:16,007 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm-commons:9.7
+2024-06-18 15:34:16,033 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7-sources.jar
+2024-06-18 15:34:16,051 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7/asm-tree-9.7-sources.jar
+2024-06-18 15:34:16,062 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm-tree:9.7
+2024-06-18 15:34:16,098 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-client/12.0.9/jetty-ee10-websocket-jakarta-client-12.0.9-sources.jar
+2024-06-18 15:34:16,109 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-client/12.0.9/jetty-ee10-websocket-jakarta-client-12.0.9-sources.jar
+2024-06-18 15:34:16,119 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jakarta-client:12.0.9
+2024-06-18 15:34:16,148 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/12.0.9/jetty-client-12.0.9-sources.jar
+2024-06-18 15:34:16,179 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/12.0.9/jetty-client-12.0.9-sources.jar
+2024-06-18 15:34:16,188 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-client:12.0.9
+2024-06-18 15:34:16,221 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn-client/12.0.9/jetty-alpn-client-12.0.9-sources.jar
+2024-06-18 15:34:16,236 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-alpn-client/12.0.9/jetty-alpn-client-12.0.9-sources.jar
+2024-06-18 15:34:16,246 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty:jetty-alpn-client:12.0.9
+2024-06-18 15:34:16,294 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-common/12.0.9/jetty-ee10-websocket-jakarta-common-12.0.9-sources.jar
+2024-06-18 15:34:16,322 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jakarta-common/12.0.9/jetty-ee10-websocket-jakarta-common-12.0.9-sources.jar
+2024-06-18 15:34:16,333 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jakarta-common:12.0.9
+2024-06-18 15:34:16,366 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-client/12.0.9/jetty-websocket-core-client-12.0.9-sources.jar
+2024-06-18 15:34:16,382 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-client/12.0.9/jetty-websocket-core-client-12.0.9-sources.jar
+2024-06-18 15:34:16,395 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.websocket:jetty-websocket-core-client:12.0.9
+2024-06-18 15:34:16,441 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-servlet/12.0.9/jetty-ee10-websocket-servlet-12.0.9-sources.jar
+2024-06-18 15:34:16,467 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-servlet/12.0.9/jetty-ee10-websocket-servlet-12.0.9-sources.jar
+2024-06-18 15:34:16,487 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-servlet:12.0.9
+2024-06-18 15:34:16,535 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-server/12.0.9/jetty-websocket-core-server-12.0.9-sources.jar
+2024-06-18 15:34:16,567 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-server/12.0.9/jetty-websocket-core-server-12.0.9-sources.jar
+2024-06-18 15:34:16,597 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.websocket:jetty-websocket-core-server:12.0.9
+2024-06-18 15:34:16,662 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jetty-server/12.0.9/jetty-ee10-websocket-jetty-server-12.0.9-sources.jar
+2024-06-18 15:34:16,716 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/ee10/websocket/jetty-ee10-websocket-jetty-server/12.0.9/jetty-ee10-websocket-jetty-server-12.0.9-sources.jar
+2024-06-18 15:34:16,739 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jetty-server:12.0.9
+2024-06-18 15:34:16,784 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-api/12.0.9/jetty-websocket-jetty-api-12.0.9-sources.jar
+2024-06-18 15:34:16,803 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-api/12.0.9/jetty-websocket-jetty-api-12.0.9-sources.jar
+2024-06-18 15:34:16,815 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.websocket:jetty-websocket-jetty-api:12.0.9
+2024-06-18 15:34:16,853 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-common/12.0.9/jetty-websocket-jetty-common-12.0.9-sources.jar
+2024-06-18 15:34:16,870 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-jetty-common/12.0.9/jetty-websocket-jetty-common-12.0.9-sources.jar
+2024-06-18 15:34:16,882 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.websocket:jetty-websocket-jetty-common:12.0.9
+2024-06-18 15:34:16,923 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-common/12.0.9/jetty-websocket-core-common-12.0.9-sources.jar
+2024-06-18 15:34:16,957 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/jetty-websocket-core-common/12.0.9/jetty-websocket-core-common-12.0.9-sources.jar
+2024-06-18 15:34:16,967 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jetty.websocket:jetty-websocket-core-common:12.0.9
+2024-06-18 15:35:20,444 [Worker-69: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 15:35:20,463 [Worker-69: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:35:20,465 [Worker-69: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:41:43,949 [Worker-64: Launching DemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\pom.xml.
+2024-06-18 15:41:45,423 [Worker-64: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:41:45,425 [Worker-64: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:41:45,430 [Worker-64: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:43:48,262 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-18 15:44:28,955 [Worker-9: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 15:44:28,984 [Worker-9: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:44:28,993 [Worker-9: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-06-18 15:49:48,190 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-18 15:49:48,200 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-18 15:49:48,205 [Worker-28: Launching DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\demo\src\test\resources
+2024-07-02 21:23:27,454 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-02 21:54:41,120 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-03 09:15:24,263 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-03 09:25:10,956 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-03 09:58:20,215 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-03 09:58:22,534 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Scope_of_Bean:0.0.1-SNAPSHOT @ C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\Scope_of_Bean\pom.xml.
+2024-07-03 09:58:25,210 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Scope_of_Bean/src/main/java
+2024-07-03 09:58:25,214 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Scope_of_Bean/src/main/resources
+2024-07-03 09:58:25,235 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Scope_of_Bean/src/main/resources
+2024-07-03 09:58:25,251 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Scope_of_Bean/src/test/java
+2024-07-03 09:58:25,253 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Scope_of_Bean/src/test/resources
+2024-07-03 09:58:25,813 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 1.00 sec 
+2024-07-03 10:03:16,630 [Worker-28: Launching Scope_of_Bean] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-03 10:03:16,650 [Worker-28: Launching Scope_of_Bean] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-03 10:03:16,658 [Worker-28: Launching Scope_of_Bean] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\Desktop\Amaresh\eclipse-workspace\Scope_of_Bean\src\test\resources
+2024-07-03 10:03:18,128 [Worker-28: Launching Scope_of_Bean] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.jar
+2024-07-03 10:03:18,205 [Worker-28: Launching Scope_of_Bean] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.jar
+2024-07-03 20:52:33,240 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-03 22:06:25,689 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: Data-Structures-main/Binary_Search_Algorithm/bin [in DataStructure_codes2] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:572)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:233)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:585)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:308)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:294)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:533)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:658)
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:50)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69)
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:77)
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:123)
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:325)
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:214)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$2.run(PartServiceImpl.java:250)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:247)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:780)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:686)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:681)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3236)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3118)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3116)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3086)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3077)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:383)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:184)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:366)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$3.open(PackageExplorerPart.java:545)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:799)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:796)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1110)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:295)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:330)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4285)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1160)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4083)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2024-07-04 09:39:14,902 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-05 09:23:13,174 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-08 12:00:58,360 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

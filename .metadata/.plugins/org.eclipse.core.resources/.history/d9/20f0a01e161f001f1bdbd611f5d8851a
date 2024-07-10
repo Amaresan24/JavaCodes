@@ -1,0 +1,36 @@
+package java_1;
+
+public class Sample {
+	
+
+	
+public static void main(String args[]) {
+	
+	
+	sample s1 = new sample();
+	sample s2 = new sample();
+	sample s3 = new sample();
+System.out.println(sample.get());
+System.out.println(sample.a);	
+	
+	
+}	
+
+
+
+static int a = 10;
+public sample() {
+	a++;
+	System.out.println(a);
+	}
+
+public static String get() {
+
+return "Hello";
+}	
+
+static {
+System.out.println("hi");
+
+}
+}

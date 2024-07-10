@@ -1,0 +1,20 @@
+package Excep1;
+
+public class Multiple_catch {
+	
+	public  static void main(String args[]) {
+		
+		
+		
+		String a = null; 
+		
+		try {
+			System.out.println(false);
+			
+		}
+		
+		
+		
+	}
+
+}

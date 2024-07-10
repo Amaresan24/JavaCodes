@@ -1,0 +1,46 @@
+package practicesquestions;
+
+public class ques7 {
+public static void main(String args[]) {
+//7. Implement a Java program to find the largest and smallest elements in an array.
+	
+	 int[] numbers = {10, 5, 7, 3, 15, 9,100};
+     
+     // Find the largest and smallest elements
+     int largest = findLargest(numbers);
+     int smallest = findSmallest(numbers);
+     
+     // Display the result
+     System.out.println("Largest element: " + largest);
+     System.out.println("Smallest element: " + smallest);
+ }
+ 
+ // Method to find the largest element in an array
+ public static int findLargest( int[]numbers) {
+     int largest = numbers[0]; // Initialize with the first element
+     
+     // Iterate through the array to find the largest element
+     for (int i = 1; i < numbers.length; i++) {
+         if (numbers[i] > largest) {
+             largest = numbers[i];
+         }
+     }
+     
+     return largest;
+ }
+ 
+ // Method to find the smallest element in an array
+ public static int findSmallest(int[] arr) {
+     int smallest = arr[0]; // Initialize with the first element
+     
+     // Iterate through the array to find the smallest element
+     for (int i = 1; i < arr.length; i++) {
+         if (arr[i] < smallest) {
+             smallest = arr[i];
+         }
+     }
+     
+     return smallest;
+}
+
+}

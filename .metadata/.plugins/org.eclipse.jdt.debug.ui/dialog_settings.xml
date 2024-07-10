@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=firstday/src&amp;lt;Day3Task{UseLmsTask.java[UseLmsTask&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=firstday/src&amp;lt;Day3Task{LmsTask1.java[LmsTask1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=firstday/src&amp;lt;Day3Task{LmsTask2.java[LmsTask2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=firstday/src&amp;lt;Day3Task{LmsTask3.java[LmsTask3&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=firstday/src&amp;lt;Day3Task{LmsTask4.java[LmsTask4&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=firstday/src&amp;lt;Day3Task{UseTask1.java[UseTask1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=first_SpingInitializer/C:\/Users\/ASUS\/.m2\/repository\/net\/bytebuddy\/byte-buddy-agent\/1.14.16\/byte-buddy-agent-1.14.16.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/net.bytebuddy=/=/maven.artifactId=/byte-buddy-agent=/=/maven.version=/1.14.16=/=/maven.scope=/test=/=/maven.pomderived=/true=/&amp;lt;net.bytebuddy.agent(Attacher.class[Attacher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="650"/>
+			<item key="DIALOG_WIDTH" value="483"/>
+			<item key="DIALOG_X_ORIGIN" value="100"/>
+			<item key="DIALOG_Y_ORIGIN" value="9"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,19 @@
+package Final_keywords;
+
+import java.util.ArrayList;
+
+public class Array_to_ArrayList {
+
+	public static void main(String[] args) {
+		String[] array = { "Hai", "world", "kamal" };
+
+		ArrayList<String> list = new ArrayList<>();
+
+		for (String X : array) {
+			list.add(X);
+		}
+		
+		System.out.println(list);
+
+	}
+}

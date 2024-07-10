@@ -1,0 +1,16 @@
+package Final_keywords;
+
+public class Final_Words {
+	
+	/// using final words
+	final int age = 18;
+	
+public static void main(String args[]) {
+		
+	Final_Words s1 = new Final_Words();
+	System.out.println(s1.age);	
+	
+	
+		
+}
+}

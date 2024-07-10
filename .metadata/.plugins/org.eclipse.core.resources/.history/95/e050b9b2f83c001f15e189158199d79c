@@ -1,0 +1,24 @@
+package Final_keywords;
+
+public class Static_KeyWords {
+	
+	static int a = 10; /// -----------------> static variable used 
+	
+	
+	
+	public static void  getName() {
+		
+		System.out.println("Amaresh");
+		
+	}
+
+	public static void main(String[] args) {
+		//Static_KeyWords s1 = new Static_KeyWords();
+	//int a = 10; 
+		Static_KeyWords.getName();
+	
+	
+	
+	}
+
+}
