@@ -97,6 +97,7 @@ int result = a/b;
 
 System.out.println("Welcome our page");
 
+
 try {
 String  a = null;
 System.out.println(a.toUpperCase());
@@ -105,8 +106,15 @@ catch(NullPointerException  np) {
 	System.out.println(" error on this  output");
 	np.printStackTrace();
 	System.out.println(np.getMessage());
-	
 }
+finally {
+System.out.println("Error Thorwing");
+}
+
+
+
+
+
 System.out.println("Thank for your Code");
 
                                                         ///// ClassNotFoundException and using finally key Word
